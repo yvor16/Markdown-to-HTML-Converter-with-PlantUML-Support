@@ -39,20 +39,7 @@ It provides a live preview, supports **PlantUML** and **Mermaid** diagrams, math
 5. Drag document nodes to reorder them. Click the edit (✏️) icon to modify titles/content directly.
 6. Export your final document as Markdown, HTML, or PDF.
 
-### Keyboard Shortcuts (in the editor)
 
-| Shortcut | Action |
-|----------|--------|
-| `Ctrl+B` | Bold |
-| `Ctrl+I` | Italic |
-| `Ctrl+K` | Inline code |
-| `Ctrl+H` | Insert heading (cycles levels) |
-| `Ctrl+L` | Insert unordered list |
-| `Ctrl+T` | Insert task list |
-| `Ctrl+G` | Generate preview |
-| `Ctrl+E` | Open export dialog |
-| `Ctrl+S` | Save to localStorage |
-| `Ctrl+R` | Reverse conversion (HTML → MD) |
 
 ### Supported Markdown Syntax
 
